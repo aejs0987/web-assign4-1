@@ -1,0 +1,27 @@
+article#question{
+ width:100%;
+  padding:1em;
+  background:url(http://subtlepatterns.com/patterns/congruent_pentagon.png);
+    border-radius:1em;
+}
+
+#question h1{
+  font-size:2em;
+  color:rgb(255, 41, 226);
+  border-bottom:3px solid;
+}
+
+#question h2{
+  font-size:1em;
+  color:rgb(229, 150, 0);
+  border-bottom:1px solid;
+}
+
+.school{
+  color:rgb(229, 150, 0);
+}
+
+#rightfloat { 
+  float:right;
+  
+}
